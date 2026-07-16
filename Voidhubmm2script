@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://paste.ee/r/XmtiZzZR'))()
+loadstring(game:HttpGet('https://api.rubis.app/v2/scrap/hYFVYuZtCX7ZKGVN/raw'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua"))()
